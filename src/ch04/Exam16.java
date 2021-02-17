@@ -20,7 +20,7 @@ public class Exam16 {
 			//int result = num1 + num2;
 			double result = num1 + num2;
 			System.out.println("°á°ú: " + result);
-			System.out.println();
+			System.out.println();  
 		}
 	}
 
